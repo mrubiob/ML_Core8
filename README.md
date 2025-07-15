@@ -101,5 +101,5 @@ Se compararon KNN y Random Forest visualmente. El modelo **Random Forest** mostr
 
 ## Autor(a)
 
-Proyecto desarrollado por [Tu nombre aquí] como parte de una práctica de análisis de datos y machine learning.
+Proyecto desarrollado por Marcela Rubio como parte de una práctica de  Machine Learning (b2b-sonda-ds-mayo-2025)
 
